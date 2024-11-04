@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 ### 經歷
 輔仁大學 數學系應用數學組
+### 信箱
+lkes40201@gmail.com
